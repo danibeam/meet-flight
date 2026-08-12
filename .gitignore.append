@@ -1,0 +1,5 @@
+pnpm-debug.log*
+local.db
+local.db-journal
+.env.local
+.env*.local
